@@ -180,7 +180,7 @@ Engagement declined platform-wide in 2023. Creators should track performance aga
 ## Repository Structure
 
 **Root**
-- `Text_Analysis.ipynb` — Main analysis notebook (caption feature extraction + OLS regression)
+- `Text_Analysis_Notebook.ipynb` — Main analysis notebook (caption feature extraction + OLS regression)
 - `README.md` — Project overview and documentation
 
 **data/**
