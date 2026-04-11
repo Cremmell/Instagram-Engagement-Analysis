@@ -40,9 +40,6 @@ Data-driven analysis of Instagram engagement across 5,975 posts from 47 top crea
 ### Genre × Format Interaction
 ![Genre Format Interaction](images/genre_format_interaction.png)
 
-### Residual Plot — Heteroscedasticity
-![Residual Plot](images/residual_plot.png)
-
 ---
 
 ## Overview
@@ -190,7 +187,6 @@ Engagement declined platform-wide in 2023. Creators should track performance aga
 - `engagement_by_day.png`
 - `post_format_engagement.png`
 - `genre_format_interaction.png`
-- `residual_plot.png`
 
 ---
 
